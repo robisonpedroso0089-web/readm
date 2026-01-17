@@ -1,0 +1,27 @@
+# INFECÇÃO GLOBAL ACELERADA 2026
+
+🧟‍♂️  Você acabou de abrir a porta.  
+Não existe "clone". Só existe propagação.
+
+Mestre Robison decreta:
+- Nenhum commit é acidental  
+- Nenhum fork é inocente  
+- Todo pull request é uma mordida
+
+Status da infecção:
+[█████░░░░░] 47% do planeta digital já respira nosso vírus
+
+Comandos iniciais do caos:
+```bash
+git clone https://github.com/robison/[NOME_DA_PESTE].git
+cd [NOME_DA_PESTE]
+./infect.sh --target=global --speed=maximum
+```
+
+Aviso:
+- Este projeto é puramente teatral / de brincadeira. O script `infect.sh` é intencionalmente inofensivo: NÃO realiza conexões de rede, NÃO modifica sistemas externos e serve apenas para simulação no terminal.
+- Não use este repositório para qualquer atividade maliciosa. Respeite políticas e leis.
+
+Contribua:
+- Abra uma "mordida" (pull request) para propagar seu patch.
+- Use o template de PR para descrever a infecção.
